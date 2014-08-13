@@ -147,7 +147,7 @@ i.language-icon {
   color: #59536E;
 }
 
-.portfolio-item a {
+.portfolio-item a:link, a:hover, a:visited {
 
   color: #59536E;
 }
