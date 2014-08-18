@@ -142,8 +142,10 @@ i.language-icon {
 }
 
 .portfolio-item {
-  margin-bottom: 25px;
+  display: table-cell;
+  vertical-align: middle;
   border: 2px solid black;
+  height: 200px;
 
 }
 
