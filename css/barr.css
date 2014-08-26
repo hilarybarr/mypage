@@ -145,7 +145,8 @@ i.language-icon {
   display: table-cell;
   vertical-align: middle;
   border: 2px solid black;
-  height: 200px;
+  height: 300px;
+  width: 100%;
 
 }
 
